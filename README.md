@@ -1,47 +1,64 @@
-# 👋 Hi, I'm [Your Name]!
+ <h2 align="center"><strong>👋 Hi, I’m Andrew Karocha</strong></h2>
 
-### 👨‍💻 Full Stack Developer | Tech Enthusiast | Side Project Lover
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=DrochaS&style=flat-square&color=red" alt="Profile Views" />
+</div>
 
-I'm a passionate developer who loves building things that live on the internet. My work spans from professional software engineering to experimental side projects that explore new technologies.
+<div align="center">
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=67074E&center=true&vCenter=true&width=435&lines=Hello!+%F0%9F%91%8B;Welcome+to+my+page!;I+love+coding!" alt="Typing SVG" />
+  </a>
 
----
+  <p>
+    I am a Software Engineering student based in <b>Nairobi, Kenya</b>.</br>
+    I am passionate about <b>Web design, Python, and Java</b>.<br/>
+    I specialize in building full-stack applications and low-level systems.
+  </p>
 
-### 🚀 About Me
-- 🛠️ Currently working on: [Current Project/Job]
-- 🌱 Learning: [Current Learning Topic]
-- 🎨 Fun Fact: [Something interesting about you]
-- 💬 Ask me about: [Topics you are comfortable discussing]
+</div>
 
----
+<hr/>
 
-### 🛠️ Tech Stack & Skills
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=nodesdotjs&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+### 🛠️ Languages & Tools
+<div align="center">
+  <p>
+    <img src="https://skillicons.dev/icons?i=java,python,flask,docker,git " />
+    <br/><br/>
+  </p>
+</div>
 
----
+<br/>
 
-### 📊 GitHub Stats
-<p align="left">
-<a href="https://github.com/[Your Username]">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[Your Username]&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Your Username]&layout=compact&langs_count=7&theme=radical" />
-</a>
-</p>
 
----
+## 🧑‍💻 About Me
 
-### 🌟 Featured Projects
-- **[Project Name 1]**: [Brief description of the project]
-- **[Project Name 2]**: [Brief description of the project]
+🎓 Aspiring Software Engineer | Backend Developer 
 
----
+## 🛠 Tech Stack
+## Languages:
+Python , Java, HTML,CSS, Javascript
 
-### 📫 Connect with me
-[LinkedIn](https://linkedin.com/in/[Your LinkedIn]) | [Twitter](https://twitter.com/[Your Twitter]) | [Portfolio](https://[Your Portfolio])
+## Frameworks:
+Springboot, Flask
 
----
+## Databases:
+MySQL 
 
-*“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
+## Tools:
+Git, Github, Postman 
+
+## Other
+Automation, Scalability
+
+
+## 📚 What I’m Currently Learning
+Advanced Springboot
+API Security
+Database Optimization
+
+  ## 📫 How to reach me
+  - email: karochaandy9@gmail.com
+  - linkedln:www.linkedin.com/in/andrew-karocha-a29b08416
+  - discord:rocha
+  - portfolio Website: coming soon
